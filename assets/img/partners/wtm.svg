@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 612 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-3.4,-358.7)">
+        <g transform="matrix(0.96656,0,0,0.96656,0.113696,11.9916)">
+            <g>
+                <g>
+                    <rect x="21.3" y="375.1" width="14.6" height="47.4" style="fill:rgb(85,126,191);"/>
+                    <rect x="64.9" y="375.1" width="14.7" height="47.4" style="fill:rgb(39,186,162);"/>
+                    <path d="M65,422.4L79.7,422.4L57.8,382.2L43.2,382.2L65,422.4Z" style="fill:rgb(98,195,166);fill-rule:nonzero;"/>
+                </g>
+                <path d="M35.9,422.4L21.3,422.4L43.2,382.2L57.7,382.2L35.9,422.4Z" style="fill:rgb(89,194,239);fill-rule:nonzero;"/>
+            </g>
+            <g>
+                <path d="M12.7,429.7L12.7,368L28.7,368L28.7,358.6L7,358.6C4.9,358.6 3.4,360.3 3.4,362.3L3.4,434.7C3.4,436.8 5.1,438.8 7.1,438.8L28.8,438.8L28.8,429.6L12.7,429.6L12.7,429.7Z" style="fill:rgb(85,126,191);fill-rule:nonzero;"/>
+                <path d="M88.3,429.7L88.3,368L72.3,368L72.3,358.6L94,358.6C96.1,358.6 97.7,360.3 97.7,362.3L97.7,434.7C97.7,436.8 96,438.8 94,438.8L72.3,438.8L72.3,429.6L88.3,429.6L88.3,429.7Z" style="fill:rgb(39,186,162);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.09319,0,0,1.09319,-2.12896,369.956)">
+            <g>
+                <g transform="matrix(1,0,0,1,111.272,41.955)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:48px;fill:rgb(103,108,114);">W</text>
+                </g>
+                <g transform="matrix(1,0,0,1,153.848,41.955)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:48px;fill:rgb(103,108,114);">omen</text>
+                </g>
+                <g transform="matrix(1,0,0,1,287.144,41.955)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:48px;fill:rgb(103,108,114);">Techm</text>
+                </g>
+                <g transform="matrix(1,0,0,1,440.322,41.955)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:48px;fill:rgb(103,108,114);">akers</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

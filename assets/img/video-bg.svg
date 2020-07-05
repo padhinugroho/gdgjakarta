@@ -1,0 +1,32 @@
+<svg width="1188" height="553" viewBox="0 0 1188 553" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="video-bg_svg__a" d="M.593 43.61H43.61V.593H.593z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FDE293" d="M236 0h922v553H236z"/>
+        <g fill="#FBBC04">
+            <path d="M142 270C63.58 270 0 333.351 0 411.498 0 489.648 63.58 553 142 553V270z"/>
+            <path d="M141 387h331v166H141z"/>
+        </g>
+        <path stroke="#E37400" stroke-width="1.5" d="M1187 139l-19-19-19 19"/>
+        <path fill="#FBBC04" d="M1168 459.051l-5.948-5.948-5.949 5.948 5.95 5.949z"/>
+        <path stroke="#E37400" stroke-width="1.8" d="M1151.345 442.396l-5.949-5.948-5.948 5.948 5.948 5.949z"/>
+        <path stroke="#FBBC04" stroke-width="1.8" d="M1133.897 424.948l-5.95-5.948-5.947 5.948 5.948 5.949z"/>
+        <g>
+            <g transform="translate(1132 261)">
+                <mask id="video-bg_svg__b" fill="#fff">
+                    <use xlink:href="#video-bg_svg__a"/>
+                </mask>
+                <use fill="#FBBC04" xlink:href="#video-bg_svg__a"/>
+                <g mask="url(#video-bg_svg__b)" stroke="#FFF" stroke-width="1.8">
+                    <path d="M44.407 44.407L-1-1M-1 46L46-1"/>
+                </g>
+            </g>
+        </g>
+        <g stroke-width="2">
+            <path d="M461.851 507.817H433.67" stroke="#E37400"/>
+            <path d="M544.11 507.548H482" stroke="#FBBC04"/>
+            <path stroke="#E37400" d="M482 508l-10-10-10 10 10 10z"/>
+        </g>
+    </g>
+</svg>
